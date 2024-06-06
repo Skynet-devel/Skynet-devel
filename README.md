@@ -8,15 +8,17 @@ I intend to learn more and more to achieve my goals and be able to migrate all m
 <h2 align="center">Contributions and Projects</h2>
 
 <br>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=skynet-devel&show_icons=true&locale=en" alt="skynet-devel"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skynet-devel&" alt="skynet-devel"/>
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-devel&show_icons=true&locale=en" alt="skynet-devel" </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skynet-devel&" alt="skynet-devel"/> 
-
+<p>
 <br>
 <br>
-
 <h2 align="center">Most used languages</h2>
-<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel" /></p >
+<img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel" /></p >
+</p>
 
 <br>
 <br>
