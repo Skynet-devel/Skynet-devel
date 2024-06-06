@@ -18,7 +18,7 @@ I intend to learn more and more to achieve my goals and be able to migrate all m
 <h2 align="left">Most used languages</h2>
 
 <p>
-  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel"/>
+  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel"height="200" width="400"/>
 </p>
 
 
