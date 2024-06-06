@@ -9,16 +9,17 @@ I intend to learn more and more to achieve my goals and be able to migrate all m
 
 <br>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=skynet-devel&show_icons=true&locale=en" alt="skynet-devel"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-devel&show_icons=true&locale=en" alt="skynet-devel"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skynet-devel&" alt="skynet-devel"/>
 </p>
 
+<br>
+<h2 align="left">Most used languages</h2>
+
 <p>
-<br>
-<br>
-<h2 align="center">Most used languages</h2>
-<img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel" /></p >
+  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-devel&show_icons=true&locale=en&layout=compact" alt="skynet-devel"/>
 </p>
+
 
 <br>
 <br>
